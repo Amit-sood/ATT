@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\amit.sood\Desktop\att1" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/ATTService.dll" publishTime="08/31/2012 14:15:52" />
+    <file relUrl="bin/ATT_MSSDK.dll" publishTime="08/27/2012 15:25:28" />
+    <file relUrl="Web.config" publishTime="08/31/2012 14:23:42" />
+    <file relUrl="Service1.svc" publishTime="08/31/2012 10:54:25" />
+    <file relUrl="bin/ATTService.pdb" publishTime="08/31/2012 14:15:52" />
+    <file relUrl="ATTPayment.svc" publishTime="08/31/2012 13:59:54" />
+  </publishProfile>
+</publishData>

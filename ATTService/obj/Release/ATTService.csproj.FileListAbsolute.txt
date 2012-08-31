@@ -1,0 +1,6 @@
+C:\study\ATT\ATTService\ATTService\bin\ATTService.dll
+C:\study\ATT\ATTService\ATTService\bin\ATTService.pdb
+C:\study\ATT\ATTService\ATTService\bin\ATT_MSSDK.dll
+C:\study\ATT\ATTService\ATTService\obj\Release\ResolveAssemblyReference.cache
+C:\study\ATT\ATTService\ATTService\obj\Release\ATTService.dll
+C:\study\ATT\ATTService\ATTService\obj\Release\ATTService.pdb
